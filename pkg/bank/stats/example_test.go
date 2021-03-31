@@ -20,4 +20,5 @@ func ExampleAvg()  {
 		},
 	}
 	fmt.Println(Avg(payments))
+	// Output: 70
 }
